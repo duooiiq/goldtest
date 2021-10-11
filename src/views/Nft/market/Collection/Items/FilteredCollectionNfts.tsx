@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { BunnyPlaceholderIcon, Button, Flex, Grid, Text } from '@pancakeswap/uikit'
+import { BunnyPlaceholderIcon, Button, Flex, Grid, Text } from '@goldswapdinance/uikit'
 import { useGetNftFilterLoadingState, useNftsFromCollection } from 'state/nftMarket/hooks'
 import { Collection, NftFilterLoadingState } from 'state/nftMarket/types'
 import { useTranslation } from 'contexts/Localization'

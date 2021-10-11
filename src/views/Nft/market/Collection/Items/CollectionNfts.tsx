@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import { AutoRenewIcon, Button, Flex, Grid } from '@pancakeswap/uikit'
+import { AutoRenewIcon, Button, Flex, Grid } from '@goldswapdinance/uikit'
 import { useAppDispatch } from 'state'
 import { useGetNftFilterLoadingState, useNftsFromCollection } from 'state/nftMarket/hooks'
 import { Collection, NftFilterLoadingState } from 'state/nftMarket/types'

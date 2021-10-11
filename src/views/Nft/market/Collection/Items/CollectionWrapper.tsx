@@ -1,5 +1,5 @@
 import React from 'react'
-import { Box } from '@pancakeswap/uikit'
+import { Box } from '@goldswapdinance/uikit'
 import isEmpty from 'lodash/isEmpty'
 import { Collection } from 'state/nftMarket/types'
 import { useGetNftFilters } from 'state/nftMarket/hooks'

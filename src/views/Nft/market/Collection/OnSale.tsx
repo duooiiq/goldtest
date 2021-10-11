@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import { useParams } from 'react-router'
-import { Box, Flex, Grid, Text, Button, AutoRenewIcon } from '@pancakeswap/uikit'
+import { Box, Flex, Grid, Text, Button, AutoRenewIcon } from '@goldswapdinance/uikit'
 import { uniqBy } from 'lodash'
 import { NftToken, TokenMarketData } from 'state/nftMarket/types'
 import { useGetCollection } from 'state/nftMarket/hooks'
